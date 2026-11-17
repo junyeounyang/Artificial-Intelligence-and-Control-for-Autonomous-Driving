@@ -33,9 +33,10 @@ import subprocess
 
 from env.road_config import ROAD, EGO, TRAFFIC
 from env.mdp_config import SIMULATION
-from env import road_builder
+from env import daehakro_env as road_builder
+from env.daehakro_env import DaehakroEnv as SumoHighwayEnv
 # sumo_env를 import하면 SUMO_HOME 자동 감지 로직이 함께 실행된다
-from env.sumo_env import SumoHighwayEnv  # noqa: F401  (자동 감지 목적의 import)
+# noqa: F401  (자동 감지 목적의 import)
 from sumolib import checkBinary
 
 BASE = os.path.dirname(os.path.abspath(__file__))

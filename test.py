@@ -15,8 +15,8 @@ import torch
 
 from env.road_config import ROAD, EGO, TRAFFIC
 from env.mdp_config import SIMULATION, OBSERVATION, ACTION
-from env import road_builder
-from env.sumo_env import SumoHighwayEnv
+from env import daehakro_env as road_builder
+from env.daehakro_env import DaehakroEnv as SumoHighwayEnv
 
 from algorithms.ppo import PPO
 from algorithms.bc import BCPolicy

@@ -55,8 +55,8 @@ import numpy as np
 
 from env.road_config import ROAD, EGO, TRAFFIC
 from env.mdp_config import SIMULATION, OBSERVATION, ACTION
-from env import road_builder
-from env.sumo_env import SumoHighwayEnv
+from env import daehakro_env as road_builder
+from env.daehakro_env import DaehakroEnv as SumoHighwayEnv
 from train import HPARAMS, REWARD  # 학습과 같은 보상 조건 + PPO 네트워크 구조
 
 BASE = os.path.dirname(os.path.abspath(__file__))

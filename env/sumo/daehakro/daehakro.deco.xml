@@ -1,0 +1,198 @@
+<additional>
+    <poly id="bl_nb_IH_IWJ_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,19.87 9.60,22.87"/>
+    <poly id="bl_nb_IH_IWJ_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,25.87 9.60,28.87"/>
+    <poly id="bl_nb_IH_IWJ_0_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,31.87 9.60,34.87"/>
+    <poly id="bl_nb_IH_IWJ_0_3" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,37.87 9.60,40.87"/>
+    <poly id="bl_nb_IH_IWJ_0_4" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,43.87 9.60,46.87"/>
+    <poly id="bl_nb_IH_IWJ_0_5" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,49.87 9.60,52.87"/>
+    <poly id="bl_nb_IH_IWJ_0_6" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,55.87 9.60,58.87"/>
+    <poly id="bl_nb_IH_IWJ_0_7" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,61.87 9.60,64.87"/>
+    <poly id="bl_nb_IH_IWJ_0_8" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,67.87 9.60,70.87"/>
+    <poly id="bl_nb_IH_IWJ_0_9" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,73.87 9.60,76.87"/>
+    <poly id="bl_nb_IWJ_BAY0_0" type="bus lane solid" color="0,90,230" fill="0" lineWidth="0.35" layer="6" shape="9.60,91.70 9.60,161.00"/>
+    <poly id="bl_nb_BAY0_BAY1_1" type="bus lane solid" color="0,90,230" fill="0" lineWidth="0.35" layer="6" shape="9.60,169.00 9.60,216.00"/>
+    <poly id="bl_nb_BAY1_M_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,216.00 9.60,219.00"/>
+    <poly id="bl_nb_BAY1_M_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,222.00 9.60,225.00"/>
+    <poly id="bl_nb_BAY1_M_0_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,228.00 9.60,231.00"/>
+    <poly id="bl_nb_BAY1_M_0_3" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,234.00 9.60,237.00"/>
+    <poly id="bl_nb_BAY1_M_0_4" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,240.00 9.60,243.00"/>
+    <poly id="bl_nb_BAY1_M_0_5" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,246.00 9.60,249.00"/>
+    <poly id="bl_nb_BAY1_M_0_6" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,252.00 9.60,255.00"/>
+    <poly id="bl_nb_BAY1_M_0_7" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,258.00 9.60,261.00"/>
+    <poly id="bl_nb_BAY1_M_0_8" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,264.00 9.60,267.00"/>
+    <poly id="bl_nb_BAY1_M_0_9" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,270.00 9.60,273.00"/>
+    <poly id="bl_nb_BAY1_M_0_10" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,276.00 9.60,279.00"/>
+    <poly id="bl_nb_BAY1_M_0_11" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,282.00 9.60,285.00"/>
+    <poly id="bl_nb_BAY1_M_0_12" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,288.00 9.60,291.00"/>
+    <poly id="bl_nb_BAY1_M_0_13" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,294.00 9.60,297.00"/>
+    <poly id="bl_nb_BAY1_M_0_14" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,300.00 9.60,303.00"/>
+    <poly id="bl_nb_BAY1_M_0_15" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,306.00 9.60,309.00"/>
+    <poly id="bl_nb_BAY1_M_0_16" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,312.00 9.60,315.00"/>
+    <poly id="bl_nb_BAY1_M_0_17" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,318.00 9.60,321.00"/>
+    <poly id="bl_nb_BAY1_M_0_18" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,324.00 9.60,327.00"/>
+    <poly id="bl_nb_BAY1_M_0_19" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,330.00 9.60,333.00"/>
+    <poly id="bl_nb_M_d427_0" type="bus lane solid" color="0,90,230" fill="0" lineWidth="0.35" layer="6" shape="9.60,346.70 9.60,427.00"/>
+    <poly id="bl_nb_d427_O_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,427.00 9.60,430.00"/>
+    <poly id="bl_nb_d427_O_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,433.00 9.60,436.00"/>
+    <poly id="bl_nb_d427_O_0_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,439.00 9.60,439.80"/>
+    <poly id="bl_nb_O_I_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,467.40 9.60,470.40"/>
+    <poly id="bl_nb_O_I_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,473.40 9.60,476.40"/>
+    <poly id="bl_nb_O_I_0_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,479.40 9.60,482.40"/>
+    <poly id="bl_nb_O_I_0_3" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,485.40 9.60,488.40"/>
+    <poly id="bl_nb_O_I_0_4" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,491.40 9.60,494.40"/>
+    <poly id="bl_nb_O_I_0_5" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,497.40 9.60,499.30"/>
+    <poly id="bl_nb_I_H_0" type="bus lane solid" color="0,90,230" fill="0" lineWidth="0.35" layer="6" shape="9.60,512.70 9.60,545.50"/>
+    <poly id="bl_nb_H_d596_0" type="bus lane solid" color="0,90,230" fill="0" lineWidth="0.35" layer="6" shape="9.60,550.50 9.60,596.00"/>
+    <poly id="bl_nb_d596_G_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,596.00 9.60,599.00"/>
+    <poly id="bl_nb_d596_G_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,602.00 9.60,605.00"/>
+    <poly id="bl_nb_d596_G_0_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,608.00 9.60,611.00"/>
+    <poly id="bl_nb_d596_G_0_3" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,614.00 9.60,617.00"/>
+    <poly id="bl_nb_G_F_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,632.70 9.60,635.70"/>
+    <poly id="bl_nb_G_F_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,638.70 9.60,641.70"/>
+    <poly id="bl_nb_G_F_0_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,644.70 9.60,647.50"/>
+    <poly id="bl_nb_F_d688_0" type="bus lane solid" color="0,90,230" fill="0" lineWidth="0.35" layer="6" shape="9.60,652.50 9.60,688.00"/>
+    <poly id="bl_nb_d688_E_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,688.00 9.60,691.00"/>
+    <poly id="bl_nb_d688_E_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,694.00 9.60,697.00"/>
+    <poly id="bl_nb_d688_E_0_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,700.00 9.60,703.00"/>
+    <poly id="bl_nb_d688_E_0_3" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,706.00 9.60,709.00"/>
+    <poly id="bl_nb_d688_E_0_4" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,712.00 9.60,715.00"/>
+    <poly id="bl_nb_d688_E_0_5" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,718.00 9.60,721.00"/>
+    <poly id="bl_nb_d688_E_0_6" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,724.00 9.60,727.00"/>
+    <poly id="bl_nb_E_D_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,758.00 9.60,759.00"/>
+    <poly id="bl_nb_D_d816_0" type="bus lane solid" color="0,90,230" fill="0" lineWidth="0.35" layer="6" shape="9.60,772.40 9.60,816.00"/>
+    <poly id="bl_nb_d816_C_s_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,816.00 9.60,819.00"/>
+    <poly id="bl_nb_d816_C_s_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,822.00 9.60,825.00"/>
+    <poly id="bl_nb_C_s_C_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,840.50 9.60,843.50"/>
+    <poly id="bl_nb_C_s_C_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,846.50 9.60,847.50"/>
+    <poly id="bl_nb_C_B_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,852.50 9.60,855.50"/>
+    <poly id="bl_nb_C_B_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,858.50 9.60,861.50"/>
+    <poly id="bl_nb_C_B_0_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,864.50 9.60,867.50"/>
+    <poly id="bl_nb_C_B_0_3" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,870.50 9.60,871.30"/>
+    <poly id="bl_nb_B_UBAY_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,884.70 9.60,887.70"/>
+    <poly id="bl_nb_B_UBAY_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,890.70 9.60,893.70"/>
+    <poly id="bl_nb_B_UBAY_0_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,896.70 9.60,899.70"/>
+    <poly id="bl_nb_B_UBAY_0_3" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,902.70 9.60,905.70"/>
+    <poly id="bl_nb_B_UBAY_0_4" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,908.70 9.60,911.70"/>
+    <poly id="bl_nb_B_UBAY_0_5" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,914.70 9.60,917.70"/>
+    <poly id="bl_nb_B_UBAY_0_6" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,920.70 9.60,923.70"/>
+    <poly id="bl_nb_B_UBAY_0_7" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,926.70 9.60,929.70"/>
+    <poly id="bl_nb_B_UBAY_0_8" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,932.70 9.60,935.70"/>
+    <poly id="bl_nb_B_UBAY_0_9" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,938.70 9.60,941.70"/>
+    <poly id="bl_nb_B_UBAY_0_10" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,944.70 9.60,947.70"/>
+    <poly id="bl_nb_B_UBAY_0_11" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,950.70 9.60,953.70"/>
+    <poly id="bl_nb_B_UBAY_0_12" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,956.70 9.60,959.70"/>
+    <poly id="bl_nb_B_UBAY_0_13" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,962.70 9.60,965.70"/>
+    <poly id="bl_nb_UBAY_A_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,967.10 9.60,970.10"/>
+    <poly id="bl_nb_UBAY_A_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,973.10 9.60,976.10"/>
+    <poly id="bl_nb_UBAY_A_0_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,979.10 9.60,982.10"/>
+    <poly id="bl_nb_UBAY_A_0_3" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,985.10 9.60,988.10"/>
+    <poly id="bl_nb_UBAY_A_0_4" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,991.10 9.60,994.10"/>
+    <poly id="bl_nb_UBAY_A_0_5" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,997.10 9.60,1000.10"/>
+    <poly id="bl_nb_UBAY_A_0_6" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,1003.10 9.60,1006.10"/>
+    <poly id="bl_S_in_0_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="2.26,-60.29 2.89,-57.35"/>
+    <poly id="bl_S_in_0_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="3.51,-54.42 4.13,-51.48"/>
+    <poly id="bl_S_in_0_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="4.75,-48.55 5.37,-45.61"/>
+    <poly id="bl_S_in_0_3" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="6.00,-42.68 6.62,-39.74"/>
+    <poly id="bl_S_in_0_4" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="7.24,-36.81 7.86,-33.87"/>
+    <poly id="bl_S_in_0_5" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="8.48,-30.94 9.11,-28.01"/>
+    <poly id="bl_S_in_0_6" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.62,-25.06 9.60,-22.41"/>
+    <poly id="bl_diagSW_3" type="bus lane solid" color="0,90,230" fill="0" lineWidth="0.35" layer="6" shape="12.54,1105.11 -39.95,1072.31"/>
+    <poly id="bl_SW_out_4_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-55.33,1062.70 -57.87,1061.11"/>
+    <poly id="bl_SW_out_4_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-60.42,1059.52 -62.96,1057.93"/>
+    <poly id="bl_SW_out_4_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-65.50,1056.34 -68.05,1054.75"/>
+    <poly id="bl_SW_out_4_3" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-70.59,1053.16 -73.14,1051.57"/>
+    <poly id="bl_SW_out_4_4" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-75.68,1049.98 -78.23,1048.39"/>
+    <poly id="bl_SW_out_4_5" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-80.77,1046.80 -83.31,1045.21"/>
+    <poly id="bl_SW_out_4_6" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-85.86,1043.62 -88.40,1042.03"/>
+    <poly id="bl_SW_out_4_7" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-90.95,1040.44 -93.49,1038.85"/>
+    <poly id="bl_SW_out_4_8" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-96.03,1037.26 -98.58,1035.67"/>
+    <poly id="bl_SW_out_4_9" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-101.12,1034.08 -103.67,1032.49"/>
+    <poly id="bl_SW_out_4_10" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-106.21,1030.90 -108.76,1029.31"/>
+    <poly id="bl_SW_out_4_11" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-111.30,1027.72 -113.84,1026.13"/>
+    <poly id="bl_SW_out_4_12" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-116.39,1024.54 -118.93,1022.95"/>
+    <poly id="bl_SW_out_4_13" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-121.48,1021.37 -124.02,1019.78"/>
+    <poly id="bl_SW_out_4_14" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-126.57,1018.19 -129.11,1016.60"/>
+    <poly id="bl_SW_out_4_15" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-131.65,1015.01 -134.20,1013.42"/>
+    <poly id="bl_SW_out_4_16" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-136.74,1011.83 -139.29,1010.24"/>
+    <poly id="bl_SW_out_4_17" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-141.83,1008.65 -144.37,1007.06"/>
+    <poly id="bl_SW_out_4_18" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-146.92,1005.47 -149.46,1003.88"/>
+    <poly id="bl_SW_out_4_19" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-152.01,1002.29 -154.55,1000.70"/>
+    <poly id="bl_SW_out_4_20" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-157.10,999.11 -159.64,997.52"/>
+    <poly id="bl_SW_out_4_21" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-162.18,995.93 -164.73,994.34"/>
+    <poly id="bl_SW_out_4_22" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-167.27,992.75 -169.82,991.16"/>
+    <poly id="bl_SW_out_4_23" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-172.36,989.57 -174.90,987.98"/>
+    <poly id="bl_SW_out_4_24" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-177.45,986.39 -179.99,984.80"/>
+    <poly id="bl_SW_out_4_25" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-182.54,983.21 -185.08,981.62"/>
+    <poly id="bl_SW_out_4_26" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-187.63,980.03 -190.17,978.44"/>
+    <poly id="bl_SW_out_4_27" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-192.71,976.85 -195.26,975.26"/>
+    <poly id="bl_SW_out_4_28" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-197.80,973.67 -200.35,972.08"/>
+    <poly id="bl_SW_out_4_29" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-202.89,970.50 -205.43,968.91"/>
+    <poly id="bl_SW_out_4_30" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-207.98,967.32 -210.52,965.73"/>
+    <poly id="bl_SW_out_4_31" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="-213.07,964.14 -215.61,962.55"/>
+    <poly id="bl_NE_in_5" type="bus lane solid" color="0,90,230" fill="0" lineWidth="0.35" layer="6" shape="206.79,1226.50 29.37,1115.63"/>
+    <poly id="jl_B_nb_C_B_1_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,871.30 9.60,874.30"/>
+    <poly id="jl_B_nb_C_B_1_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,877.30 9.60,880.30"/>
+    <poly id="jl_B_nb_C_B_1_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,883.30 9.60,884.70"/>
+    <poly id="jl_B_nb_C_B_2_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="6.40,871.30 6.40,874.30"/>
+    <poly id="jl_B_nb_C_B_2_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="6.40,878.30 6.40,881.30"/>
+    <poly id="jl_B_nb_C_B_3_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="3.20,871.30 3.20,874.30"/>
+    <poly id="jl_B_nb_C_B_3_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="3.20,878.30 3.20,881.30"/>
+    <poly id="jl_BAY0_nb_IWJ_BAY0_1" type="bus lane solid" color="0,90,230" fill="0" lineWidth="0.35" layer="6" shape="9.60,161.00 9.60,169.00"/>
+    <poly id="jl_BAY0_nb_IWJ_BAY0_2_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="6.40,161.00 6.40,164.00"/>
+    <poly id="jl_BAY0_nb_IWJ_BAY0_2_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="6.40,168.00 6.40,169.00"/>
+    <poly id="jl_BAY0_nb_IWJ_BAY0_3_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="3.20,161.00 3.20,164.00"/>
+    <poly id="jl_BAY0_nb_IWJ_BAY0_3_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="3.20,168.00 3.20,169.00"/>
+    <poly id="jl_C_s_nb_d816_C_s_1_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,827.10 9.60,830.10"/>
+    <poly id="jl_C_s_nb_d816_C_s_1_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,833.10 9.60,836.10"/>
+    <poly id="jl_C_s_nb_d816_C_s_1_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,839.10 9.60,840.50"/>
+    <poly id="jl_C_s_nb_d816_C_s_2_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="6.40,827.10 6.40,830.10"/>
+    <poly id="jl_C_s_nb_d816_C_s_2_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="6.40,834.10 6.40,837.10"/>
+    <poly id="jl_C_s_nb_d816_C_s_3_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="3.20,827.10 3.20,830.10"/>
+    <poly id="jl_C_s_nb_d816_C_s_3_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="3.20,834.10 3.20,837.10"/>
+    <poly id="jl_E_branch_E_in2_1_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="118.60,-3.08 115.61,-2.82"/>
+    <poly id="jl_E_branch_E_in2_1_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="111.63,-2.46 108.64,-2.19"/>
+    <poly id="jl_E_branch_E_in2_1_2" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="104.65,-1.84 101.67,-1.57"/>
+    <poly id="jl_E_branch_E_in2_1_3" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="97.68,-1.22 96.31,-1.09"/>
+    <poly id="jl_E_branch_E_in2_2_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="118.27,-6.27 115.28,-6.01"/>
+    <poly id="jl_E_branch_E_in2_2_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="111.30,-5.65 108.31,-5.38"/>
+    <poly id="jl_E_branch_E_in2_2_2" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="104.32,-5.02 101.34,-4.76"/>
+    <poly id="jl_E_branch_E_in2_2_3" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="97.35,-4.40 96.06,-4.28"/>
+    <poly id="jl_G_nb_d596_G_1_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,619.30 9.60,622.30"/>
+    <poly id="jl_G_nb_d596_G_1_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,625.30 9.60,628.30"/>
+    <poly id="jl_G_nb_d596_G_1_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,631.30 9.60,632.70"/>
+    <poly id="jl_G_nb_d596_G_2_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="6.40,619.30 6.40,622.30"/>
+    <poly id="jl_G_nb_d596_G_2_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="6.40,626.30 6.40,629.30"/>
+    <poly id="jl_G_nb_d596_G_3_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="3.20,619.30 3.20,622.30"/>
+    <poly id="jl_G_nb_d596_G_3_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="3.20,626.30 3.20,629.30"/>
+    <poly id="jl_IWJ_nb_IH_IWJ_1_0" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,78.30 9.60,81.30"/>
+    <poly id="jl_IWJ_nb_IH_IWJ_1_1" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,84.30 9.60,87.30"/>
+    <poly id="jl_IWJ_nb_IH_IWJ_1_2" type="bus lane dashed" color="0,90,230" fill="0" lineWidth="0.25" layer="6" shape="9.60,90.30 9.60,91.70"/>
+    <poly id="jl_IWJ_nb_IH_IWJ_2_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="6.40,78.30 6.40,81.30"/>
+    <poly id="jl_IWJ_nb_IH_IWJ_2_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="6.40,85.30 6.40,88.30"/>
+    <poly id="jl_IWJ_nb_IH_IWJ_3_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="3.20,78.30 3.20,81.30"/>
+    <poly id="jl_IWJ_nb_IH_IWJ_3_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="3.20,85.30 3.20,88.30"/>
+    <poly id="jl_J_mg_arcW1_2_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="-47.27,1107.98 -48.13,1106.54 -48.67,1105.59 -48.77,1105.39"/>
+    <poly id="jl_J_mg_arcW1_3_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="-44.53,1106.35 -45.34,1104.99 -45.85,1104.08 -46.02,1103.74"/>
+    <poly id="jl_SB2_sb_M_SB2_1_0" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="-3.20,134.00 -3.20,131.00"/>
+    <poly id="jl_SB2_sb_M_SB2_1_1" type="lane marking" color="255,255,255" fill="0" lineWidth="0.15" layer="6" shape="-3.20,127.00 -3.20,126.00"/>
+    <poly id="island_E" type="island" color="205,205,195" fill="1" layer="4.5" shape="0.00,668.00 0.00,728.00 -3.20,728.00 -3.20,698.00"/>
+    <poly id="island_E_edge" type="island edge" color="240,190,0" fill="0" lineWidth="0.2" layer="4.6" shape="0.00,668.00 0.00,728.00 -3.20,728.00 -3.20,698.00 0.00,668.00"/>
+    <poly id="median_A" type="median" color="236,228,170" fill="1" layer="4.5" shape="0.00,936.10 0.00,967.10 -3.20,967.10 -3.20,952.10"/>
+    <poly id="median_A_edge" type="median edge" color="240,190,0" fill="0" lineWidth="0.2" layer="4.6" shape="0.00,936.10 0.00,967.10 -3.20,967.10 -3.20,952.10 0.00,936.10"/>
+    <poly id="island_A" type="island" color="205,205,195" fill="1" layer="4.5" shape="0.00,1012.90 0.00,1021.50 -3.20,1021.50 -3.20,1014.40"/>
+    <poly id="island_A_edge" type="island edge" color="240,190,0" fill="0" lineWidth="0.2" layer="4.6" shape="0.00,1012.90 0.00,1021.50 -3.20,1021.50 -3.20,1014.40 0.00,1012.90"/>
+    <poly id="sz_sz0_out" type="school zone 30km/h" color="215,40,40,90" fill="1" layer="3.5" shape="17.80,81.80 76.25,81.80 76.25,85.00 17.80,85.00"/>
+    <poly id="sz_sz0_in" type="school zone 30km/h" color="215,40,40,90" fill="1" layer="3.5" shape="76.25,88.20 17.80,88.20 17.80,85.00 76.25,85.00"/>
+    <poly id="sz_szT_out" type="school zone 30km/h" color="215,40,40,90" fill="1" layer="3.5" shape="79.75,81.80 96.12,81.80 96.12,85.00 79.75,85.00"/>
+    <poly id="sz_szT_in" type="school zone 30km/h" color="215,40,40,90" fill="1" layer="3.5" shape="96.12,88.20 79.75,88.20 79.75,85.00 96.12,85.00"/>
+    <poly id="sz_sz2_out" type="school zone 30km/h" color="215,40,40,90" fill="1" layer="3.5" shape="110.54,81.80 183.00,81.80 183.00,85.00 110.54,85.00"/>
+    <poly id="sz_sz2_in" type="school zone 30km/h" color="215,40,40,90" fill="1" layer="3.5" shape="183.00,88.20 110.54,88.20 110.54,85.00 183.00,85.00"/>
+    <poly id="sz_br_out" type="school zone 30km/h" color="215,40,40,90" fill="1" layer="3.5" shape="100.28,77.28 104.45,11.23 107.65,11.43 103.48,77.48"/>
+    <poly id="sz_br_in" type="school zone 30km/h" color="215,40,40,90" fill="1" layer="3.5" shape="110.84,11.63 106.67,77.68 103.47,77.48 107.64,11.43"/>
+    <poi id="어린이보호구역_30km/h" type="school zone" color="220,30,30" layer="8" x="63.0" y="92.0" width="3" height="3"/>
+    <poi id="중학교_정문" type="landmark" color="60,60,60" layer="8" x="37.5" y="94.0"/>
+    <poly id="소방서_앞마당" type="forecourt" color="208,206,198" fill="1" layer="-0.5" shape="-30.90,441.00 -9.90,441.00 -9.90,463.00 -30.90,463.00"/>
+    <poly id="소방서_건물" type="fire station" color="196,72,60" fill="1" layer="-0.4" shape="-55.90,441.00 -30.40,441.00 -30.40,463.00 -55.90,463.00"/>
+    <poi id="소방서" type="landmark" color="60,60,60" layer="8" x="-42.9" y="452.0"/>
+    <poly id="소방서_보도" type="sidewalk cover" color="183,183,183" fill="1" layer="8" shape="-17.00,455.20 -17.00,448.80 -13.80,448.80 -13.80,455.20"/>
+</additional>

@@ -20,8 +20,8 @@ from datetime import datetime
 from env.road_config import ROAD, EGO, TRAFFIC
 from env.mdp_config import SIMULATION, OBSERVATION, ACTION
 from env.mdp_config import REWARD as REWARD_DEFAULTS
-from env import road_builder
-from env.sumo_env import SumoHighwayEnv
+from env import daehakro_env as road_builder
+from env.daehakro_env import DaehakroEnv as SumoHighwayEnv
 
 from algorithms.ppo import PPO
 from utils.buffer import RolloutBuffer
@@ -33,7 +33,7 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 # ══════════════════════════════════════════════════════════════════
 #  하이퍼파라미터 — 실험은 여기서
 # ══════════════════════════════════════════════════════════════════
-TOTAL_TIMESTEPS = 200_000   # 총 학습 스텝 수
+TOTAL_TIMESTEPS = 500_000   # 총 학습 스텝 수
 
 # ══════════════════════════════════════════════════════════════════
 #  보상 튜닝 — env/mdp_config.py 의 기본값을 여기서 덮어쓴다.
@@ -71,7 +71,7 @@ HPARAMS = dict(
     clip_eps=0.2,            # 클리핑 범위 ε
     value_coef=0.5,          # 가치 손실 가중치
     entropy_coef=0.0,
-    lane_entropy_coef=0.01,  # 차선 head "만"의 엔트로피 보너스 (hybrid 전용).
+    lane_entropy_coef=0.005,  # 차선 head "만"의 엔트로피 보너스 (hybrid 전용).
                              #   차선변경 확률의 조기 붕괴(p_lane_change→0)를
                              #   막아 추월 이득을 경험할 시간을 벌어준다.
                              #   가감속 σ에는 영향 없음 (수렴 방해 안 함).
@@ -111,7 +111,7 @@ EVAL_INTERVAL = 5       # 몇 번의 업데이트마다 주행 지표를 평가�
 EVAL_EPISODES = 5       # 평가 1회당 에피소드 수
 LOG_INTERVAL = 1        # 몇 번의 업데이트마다 콘솔에 출력할지
 RESULTS_DIR = "results" # 결과 저장 폴더
-RUN_NAME = None         # None이면 run_날짜_시각 자동 생성.
+RUN_NAME = "ppo_scratch"         # None이면 run_날짜_시각 자동 생성.
                         # 문자열을 주면 그 이름으로 저장 (예: "exp_lr1e-4")
 # ══════════════════════════════════════════════════════════════════
 

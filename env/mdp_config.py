@@ -1,5 +1,5 @@
 """MDP(Markov Decision Process) 정의 파일.
-
+th
 강화학습 문제는 (S, A, R, P, γ) 로 정의되는데, 이 파일이 그중
   S: 관측(상태)을 어떻게 구성할지  → OBSERVATION
   A: 행동을 무엇으로 할지          → SPEED_DELTAS
@@ -36,6 +36,9 @@ SIMULATION = {
                               # 도로 시작 구간이 이 폭만큼 확대되어 보인다.
                               # (▶ 재생 후에는 gui_zoom의 ego 추적으로 전환)
     "gui_track_ego": True,
+    "gui_show_observation": True,  # ego 주변 관측 거리 안내 테두리 (GUI 전용)
+    "gui_observation_color": (0, 220, 255, 220),  # RGBA, 각 값 0~255
+    "gui_observation_line_width": 0.5,  # 테두리 두께 (m)
 }
 
 # ──────────────────────────────────────────────────────────────
@@ -123,7 +126,7 @@ ACTION = {
         "min_rear_gap": 3.0,    # m
         "front_tau": 0.15,      # s (내 속도 기준)
         "rear_tau": 0.3,        # s (후행차 속도 기준)
-        "approach_horizon": 0.6,  # s. 접근 여유 판정 시간 — "이 시간 안에
+        "approach_horizon": 1.5,  # s. 접근 여유 판정 시간 — "이 시간 안에
                                   # 상대와 만나면 위험". 짧을수록 공격적.
         "spawn_protect": 60.0,  # m. 도로 시작 이 구간 안에서는 변경 금지.
                                 # flow가 입구에서 새 차를 만드는데 "생성 직전"
